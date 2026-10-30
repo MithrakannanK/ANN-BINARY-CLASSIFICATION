@@ -2,6 +2,11 @@
 
 An end-to-end machine learning project implementing, evaluating, and visualizing Artificial Neural Networks (ANNs) for non-linear binary classification using Scikit-Learn's synthetic `make_moons` dataset.
 
+[![Live Demo](https://img.shields.io/badge/Live_Dashboard-GitHub_Pages-38bdf8?style=for-the-badge&logo=github)](https://mithrakannank.github.io/ANN-BINARY-CLASSIFICATION/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MithrakannanK/ANN-BINARY-CLASSIFICATION)
+
+🌐 **Live Interactive Visualizer**: [https://mithrakannank.github.io/ANN-BINARY-CLASSIFICATION/](https://mithrakannank.github.io/ANN-BINARY-CLASSIFICATION/)
+
 ---
 
 ## 📌 Table of Contents
